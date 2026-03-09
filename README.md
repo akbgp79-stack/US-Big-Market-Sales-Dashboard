@@ -16,13 +16,15 @@ This project analyzes sales performance across regions, states, and product cate
 - Power Query
 - DAX
 
-## Dashboard Preview
-https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/241298f3ec024f58ea6f6d362ae16b16d2fb123d/Screenshot%202026-03-09%20154202.png
+<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/99d0f3f4c77b79d9a2f84a55193a97172d837a5a/Screenshot%202026-03-09%20154202.png" alt="image description" width="600">
+
+[!Dashboard](https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/99d0f3f4c77b79d9a2f84a55193a97172d837a5a/Screenshot%202026-03-09%20154202.png)
+
 
 ## Insights
 - New York generated the highest profit.
 - Texas showed the highest loss.
 - Phones and Chairs were the top revenue generating categories.
 
-## Author
+## Analyst 
 Aman Kumar
