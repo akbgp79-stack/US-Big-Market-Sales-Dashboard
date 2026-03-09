@@ -16,9 +16,22 @@ This project analyzes sales performance across regions, states, and product cate
 - Power Query
 - DAX
 
-<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/99d0f3f4c77b79d9a2f84a55193a97172d837a5a/Screenshot%202026-03-09%20154202.png" alt="image description" width="600">
+<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/99d0f3f4c77b79d9a2f84a55193a97172d837a5a/Screenshot%202026-03-09%20154202.png" alt="image description" width="800">
 
 [!Dashboard](https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/99d0f3f4c77b79d9a2f84a55193a97172d837a5a/Screenshot%202026-03-09%20154202.png)
+
+<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20154449.png"  alt="image description" width="600">
+
+[!Dashboard](https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20154449.png)
+
+<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20154849.png"  alt="image description" width="600">
+
+[!Dashboard](https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20154849.png)
+
+
+<img src="https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20155302.png"  alt="image description" width="600">
+
+[!Dashboard](https://github.com/akbgp79-stack/US-Big-Market-Sales-Dashboard/blob/347455110f6b19053e3bd4e26678cabbcf0139bb/Screenshot%202026-03-09%20155302.png)
 
 
 ## Insights
