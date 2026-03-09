@@ -1,4 +1,5 @@
-# Sales Performance Dashboard (Power BI)
+# Hello, 👋
+Presenting a Sales Performance Dashboard (Power BI)
 
 ## Project Overview
 This project analyzes sales performance across regions, states, and product categories using Power BI.
